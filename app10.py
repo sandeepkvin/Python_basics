@@ -1,0 +1,3 @@
+numbers = (1,2,3)
+# tupples are immunable - no insert, no append...
+print(numbers.count(2))
